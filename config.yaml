@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Jinal Pawar"
-  description: Text about my cool site
+  description: Get to know Lasun's mother
   # staticPath: ""  # The path to serve the static files from
   favicon: /lasun_favicon.webp
 
@@ -86,20 +86,19 @@ params:
 
   # color preference
   color:
-    textColor: 
-    secondaryTextColor: "#A30262"
-    backgroundColor: "#fffaf8"
-    secondaryBackgroundColor: "#fffcfb" 
-    primaryColor: "#B55690"
-    secondaryColor: 
+    textColor: "#3a021a" #darkest
+    secondaryTextColor: "#5ebec4" #titles & borders #medium
+    backgroundColor: "#ffffff" #bg #light
+    secondaryBackgroundColor: ""  #not in use
+    primaryColor: "#f92c85" #accent color #dark
+    secondaryColor: "#f5f5f5" #card background #lightest
 
-  #   darkmode:
-  #     textColor:
-  #     secondaryTextColor:
-  #     backgroundColor:
-  #     secondaryBackgroundColor:
-  #     primaryColor:
-  #     secondaryColor:
+    darkmode:
+      textColor: "#ffffff"
+      secondaryTextColor: "#CD346E"
+      backgroundColor: "#1a1a1d"
+      primaryColor: "#E9ACC2"
+      secondaryColor: "#717173"
 
   # If you want to customize the menu, you can change it here
   navbar:
