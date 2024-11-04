@@ -156,7 +156,7 @@ params:
     title: "About Me"
     image: /jinal.webp
     content: |-
-      I am a Data Scientist with a strong interest in interdisciplinary research in Human Cognition and Machine Learning. I have experience in ML, DS and Software Development as well.
+      I am a Data Scientist with a strong interest in interdisciplinary research in Machine Learning. I have experience in ML, DS and Software Development as well.
     skills:
       enable: true
       title: "Here are a few technologies I've worked with:"
@@ -177,20 +177,34 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+    - job: "Business Intelligence Manager"
+        company: "Abbott India Limited"
+        companyUrl: "https://www.abbott.co.in/"
+        date: "Sept 2024 - On-going"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: |-
+            Working as a Data Analyst for Commercial Excellence team on Sales Data. Responsibilities include:
+              - Providing Data Analysis and summaries of Sales data across various parameters
+              - Data Process Automation for regular deliverables using Python, Pandas, Numpy, Excel, etc.
+              - Developing Dashboards on Power BI for generating thorough insights on sales data
+              - Cleaning, Pre-processing and Organizing Data for Power BI
+              - EDA of current databases to observe trends, incorrect or missing information
+
       - job: "Data Analyst Intern"
         company: "Abbott India Limited"
         companyUrl: "https://www.abbott.co.in/"
-        date: "May 2024 - On-going"
+        date: "May 2024 - Sept 2024"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |- 
-            Working as a Data Analyst for Commercial Excellence team on Sales Data. Responsibilities include:
+            Worked as a Data Analyst Intern for Commercial Excellence team on Sales Data. Responsibilities included:
               - Working on Dashboard Creation and Maintenance 
               - Cleaning, Preprocessing and Organizing Data for Power Bi
-              - Data Process Automation for regular deliverables using Python, Pandas, Numpy, etc.
-              - EDA of current databases to observe trends, incorrect or missing information 
               - Cleaning Current Databases
             
       - job: "Software Developer/Data Analyst"
