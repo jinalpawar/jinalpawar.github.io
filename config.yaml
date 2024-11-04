@@ -177,7 +177,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-    - job: "Business Intelligence Manager"
+      - job: "Business Intelligence Manager"
         company: "Abbott India Limited"
         companyUrl: "https://www.abbott.co.in/"
         date: "Sept 2024 - On-going"
